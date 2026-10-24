@@ -1,0 +1,17 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Pp]ackages/
+[Tt]est[Rr]esults/
+*.coverage
+*.coveragexml
+*.ncrunch*
+_NCrunch_*/
+_ReSharper*/
+*.DotSettings.user
+.vscode/*
+!.vscode/tasks.json
