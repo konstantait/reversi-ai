@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36213.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversi.Algebra", "src\Reversi.Algebra\Reversi.Algebra.csproj", "{65F8F1B4-03B9-46CF-A48E-8BC9647B789B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversi.Algebra.Tests", "tests\Reversi.Algebra.Tests\Reversi.Algebra.Tests.csproj", "{8830D31C-8454-431E-A2C7-BDCE6104E204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F8F1B4-03B9-46CF-A48E-8BC9647B789B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F8F1B4-03B9-46CF-A48E-8BC9647B789B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F8F1B4-03B9-46CF-A48E-8BC9647B789B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F8F1B4-03B9-46CF-A48E-8BC9647B789B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8830D31C-8454-431E-A2C7-BDCE6104E204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8830D31C-8454-431E-A2C7-BDCE6104E204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8830D31C-8454-431E-A2C7-BDCE6104E204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8830D31C-8454-431E-A2C7-BDCE6104E204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
